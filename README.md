@@ -5,3 +5,4 @@
 小巧迷你
 
 http://chuanxinwong.github.io/Toast
+[点击这里预览](http://chuanxinwong.github.io/Toast){:target="_blank"}
