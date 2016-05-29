@@ -4,8 +4,7 @@
 不依赖任何第三方插件
 小巧迷你
 
-http://chuanxinwong.github.io/Toast
------------------------
-[点击这里预览](http://chuanxinwong.github.io/Toast){:target="_blank"}
--------------------------
+
+
 <a target="_blank" href="http://chuanxinwong.github.io/Toast/index.0.2.html">点击这里预览</a>
+-------------------------
